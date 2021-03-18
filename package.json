@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "release": "npx standard-version"
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
@@ -16,6 +17,7 @@
     "lodash.defaultsdeep": "^4.6.1",
     "lodash.get": "^4.4.2",
     "lodash.set": "^4.3.2",
+    "standard-version": "^9.1.1",
     "vue": "^2.6.12",
     "vue-class-component": "^7.2.3",
     "vue-codemirror": "^4.0.6",

@@ -16,8 +16,6 @@ jobs:
         scope: '@filestack'
     - name: Install deps
       run: npm install
-    - name: Run tests
-      run: npm test
     - name: Build code
       run: npm run build
     - name: Deploy to pages
