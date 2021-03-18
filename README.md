@@ -1,29 +1,18 @@
-# filestack-debug
+<p align="center">
+  <a href="https://www.filestack.com"><img src="https://static.filestackapi.com/filestack.svg?refresh" align="center" width="250" /></a>
+</p>
+<p align="center">
+  <strong>Filestack Picker Debug Page</strong>
+</p>
+<hr/>
 
-## Project setup
-```
-npm install
-```
+- [Versioning](#versioning)
+- [Contributing](#contributing)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Versioning
 
-### Compiles and minifies for production
-```
-npm run build
-```
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags](https://github.com/filestack/js-filestack-tools/tags) on this repository.
 
-### Run your unit tests
-```
-npm run test:unit
-```
+## Contributing
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+We follow the [conventional commits](https://conventionalcommits.org/) specification to ensure consistent commit messages and changelog formatting.
