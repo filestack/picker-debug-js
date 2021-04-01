@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/filestack/picker-debug-js/compare/v0.1.3...v0.1.4) (2021-04-01)
+
+
+### Features
+
+* **favico:** update favico ([4c7ef5b](https://github.com/filestack/picker-debug-js/commit/4c7ef5b4fdb4873c4c5e4e760a602ca36c7df2a8))
+
 ### [0.1.3](https://github.com/filestack/picker-debug-js/compare/v0.1.2...v0.1.3) (2021-03-26)
 
 
