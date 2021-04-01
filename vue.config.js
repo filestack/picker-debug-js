@@ -1,3 +1,3 @@
-module.exports = {
-  publicPath: '/picker-debug-js/'
-};
+// module.exports = {
+//   publicPath: '/picker-debug-js/'
+// };
