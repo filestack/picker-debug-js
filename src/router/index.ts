@@ -10,6 +10,7 @@ Vue.use(VueRouter);
 const routes = [
   { path: '/', component: Home },
   { path: '/picker', component: PickerRun, name: 'picker-runner'},
+  { path: '/picker/:msgpack', component: PickerRun, name: 'picker-runner-param'},
   { path: '/picker-options', component: PickerOptions, name: 'picker-options'},
 ]
 

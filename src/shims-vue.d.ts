@@ -6,3 +6,5 @@ declare module "*.vue" {
 declare module 'vue-codemirror';
 
 declare module 'xhrhook';
+declare module 'tiny-msgpack';
+declare module 'qrcode';
