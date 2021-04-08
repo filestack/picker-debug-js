@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/filestack/picker-debug-js/compare/v0.1.4...v0.1.5) (2021-04-08)
+
+
+### Features
+
+* **sharablelink:** add sharable link for users ([ebe4800](https://github.com/filestack/picker-debug-js/commit/ebe4800be488276320eeb558a724ab4362c8ca2c))
+
 ### [0.1.4](https://github.com/filestack/picker-debug-js/compare/v0.1.3...v0.1.4) (2021-04-01)
 
 
