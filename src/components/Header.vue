@@ -3,7 +3,7 @@
     <div class="fs-ribbon"></div>
     <div class="fs-head-menu">
       <div class="fs-logo">
-        <router-link to="/"><img src="https://www.filestack.com/assets/base/fs-logo-8ad73c5ae2b7a85eaac0378ce7b74a0f6240b45f317f169ae503127054e97be9.svg" /></router-link>
+        <router-link to="/"><img src="https://static.filestackapi.com/filestack.svg" /></router-link>
       </div>
     </div>
     <div class="fs-bottom-ribbon"></div>
@@ -50,7 +50,7 @@ export default class Header extends Vue {
 
     .fs-head-menu {
       height: 5rem;
-      padding: 0 5rem;
+      padding: 0 1.3rem;
       display: flex;
       justify-content: space-between;
       align-items: center;
