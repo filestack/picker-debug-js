@@ -1,6 +1,8 @@
 name: filestack-js-tools
 on:
-  create:
+  push:
+    branches:
+      - "!*"
     tags:
       - v*
 jobs:
