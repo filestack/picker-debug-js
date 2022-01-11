@@ -26,4 +26,4 @@ jobs:
         aws-region: us-east-1
 
     - name: Deploy static site to S3 bucket
-      run: aws s3 sync ./dist/ s3://filestack-prd-usea1-picker-debug --delete
+      run: aws s3 cp ./dist/ s3://filestack-prd-usea1-picker-debug --recursive
