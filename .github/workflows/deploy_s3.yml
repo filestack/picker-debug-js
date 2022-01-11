@@ -1,4 +1,4 @@
-name: filestack-js-tools
+name: Build and deploy to S3
 on:
   create:
     tags:
