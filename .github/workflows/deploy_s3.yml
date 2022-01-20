@@ -1,8 +1,9 @@
 name: Build and deploy to S3
 on:
-  create:
-    tags:
-      - v*
+  push:
+    branches:
+      - main
+      - feature/github-action-s3-deploy
 jobs:
   deploy:
     runs-on: ubuntu-latest
